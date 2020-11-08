@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#
+This is my attempt on cloning the facebook
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
